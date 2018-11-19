@@ -1,0 +1,16 @@
+PODS:
+  - FFMainViewKit (0.1.0)
+
+DEPENDENCIES:
+  - FFMainViewKit (from `../`)
+
+EXTERNAL SOURCES:
+  FFMainViewKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFMainViewKit: c89ba58c64d9e31bbd22a62882785cac362ff4b9
+
+PODFILE CHECKSUM: a70b13eb2eb670783ddcf5f708d4a5c8b1096a08
+
+COCOAPODS: 1.5.2
